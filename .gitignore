@@ -2,3 +2,4 @@ node_modules
 rayhaandicoding-api-webserver.pem
 rayhaan_dicoding_credentials.csv
 github-token-aws.txt
+eslint.config.mjs
